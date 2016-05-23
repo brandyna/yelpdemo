@@ -17,4 +17,4 @@ gem 'spring', group: :development
 gem "fog-aws"
 gem 'carrierwave'
 gem 'figaro', '~> 0.7' 
-
+gem "mini_magick"
